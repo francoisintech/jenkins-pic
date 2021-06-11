@@ -5,7 +5,7 @@ tick pipeline: stage view
 and press install without restart  
 Go to New Item  
 Type a name hello-world-pipeline   
-Select Pipeline and press ok 
+Select Pipeline and press ok
 
 
 ## First Jenkins DSL script
